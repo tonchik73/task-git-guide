@@ -10,4 +10,4 @@
 git clone https://github.com/avsudnichnikov/example
 ```
 [<-Назад](commit.md)
-[Вперед->]()
+[Вперед->](remote.md)

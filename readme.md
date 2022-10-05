@@ -24,19 +24,24 @@ LICENSE: [MIT](./license.md)
 
 ## 4.Работа с удаленными репозиторием
 
-4.1
+4.1 [git remote add](remote.md)
 
-git remote add
+4.2 [git fetch](fetch.md)
 
-git fetch
+4.3 [git merge](merge.md)
 
-git merge
+4.4 [git pull](pull.md)
 
-git pull
-
-git push
+4.5 [git push](push.md)
 
 ## 5.Полуучение данных о состоянии репозитория 
+
+5.1 [git status](status.md)
+
+5.2 [git log](log.md)
+
+5.3 [git show](show.md)
+
 ---
 
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
